@@ -100,6 +100,24 @@ The objectives we will explore are:
 This project is close to my research with Professor Groucho, but that work is focused entirely on inviscid beverages, and this project will focus on molasses.
 ```
 
+`
+Title: Pouring liquids
+Team: Moe, Curly
+
+We have seen some videos of robots pouring liquids, but they do not look as good as people pouring liquids, for example:
+(A video of a human pouring)
+(A video of a robot pouring)
+
+It is obvious the person is better, but not obvious exactly why. What is the objective that should be optimized? To explore that, we will devise a very simple two-dimensional simulator that pours liquid from one container into another. The pouring motion will be represented as a path in the container configuration space interpolating through a set of control points. We will formulate several different objective functions, and optimize the choice of control points for each objective, and then compare the outcomes.
+
+The objectives we will explore are:
+    * minimum time to fill the receptacle
+    * least spillage within a given time
+    * (and some others)
+
+This project is close to my research with Professor Groucho, but that work is focused entirely on inviscid beverages, and this project will focus on molasses.
+`
+
 3. Here are a few final project samples from Fall 2016 (not in IEEE format): [Sample 1](https://www.cs.cmu.edu/afs/cs/academic/class/16741-s07/www/sample_projects/yifanh_project.pdf), [Sample 2](https://www.cs.cmu.edu/afs/cs/academic/class/16741-s07/www/sample_projects/spurushw_report.pdf)
 
 
