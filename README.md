@@ -34,12 +34,19 @@ Mechanics of Manipulation is a graduate level course that dives into the fundame
 ## Textbook
 
 Mechanics of Robotic Manipulation, by Matthew T. Mason. MIT Press, 2001.  
-You can reach the online version of the textbook here: http://cognet.mit.edu/library/books/view?isbn=0262133962  
+You can reach the online version of the textbook [here](http://cognet.mit.edu/library/books/view?isbn=0262133962)  
 [Errata page](https://www.cs.cmu.edu/afs/cs/academic/class/16741-s07/www/Errata.txt)
 
 ## Additional Resources
-[Toward Robotic Manipulation](https://www.cs.cmu.edu/afs/cs/academic/class/16741-s07/www/Mason2018.pdf). Matthew T. Mason. _Annual Review of Control, Robotics, and Autonomous Systems_, 2018.  
+[Toward Robotic Manipulation](https://www.cs.cmu.edu/afs/cs/academic/class/16741-s07/www/Mason2018.pdf). Matthew T. Mason. _Annual Review of Control, Robotics, and Autonomous Systems_, 2018.
+
 ["Introduction to Modern Robotics: Mechanics, Planning, and Control"](http://hades.mech.northwestern.edu/index.php/LynchAndPark), by Kevin Lynch and Frank Park. Cambridge University Press, 2017.
+
+`Test` Test
+
+```
+Test
+```
 
 ## Course Project
 Each student must do a course project. This project is due by the end of the semester. The project will begin with a proposal, which should be a page or less. It should clearly describe what you intend to do. Students should expect to spend from 20 to 40 hours on the project. Course project reports will be due the 2nd to last week of the semester. The final report will be in IEEE format and should detail your project motivation, methodology, implementation, and results. You will also be given the option to upload a video to accompany your report (optional, but can be very helpful if your work is visual, and most robotics applications are quite visual). Projects may be a small manipulation problem to which you will apply some techniques learned in class, some extension or variation of a technique learned in class, or a review and implementation of a research paper related to the class material.
