@@ -1,21 +1,5 @@
 # 16-741: Mechanics of Manipulation (Fall 2022)
 
-<style>
-.container {
-    position: relative;
-    width: 100%;
-    height: 0;
-    padding-bottom: 56.25%;
-}
-.video {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-</style>
-
 ## Course Info
 
 #### [Syllabus](https://docs.google.com/document/d/1AxfxFss_p_9C3MvgZCJwqjbkDO-DgOZ4cyRn7IIoXF8/edit?usp=sharing)  
@@ -34,7 +18,7 @@ Mechanics of Manipulation is a graduate level course that dives into the fundame
 ## Textbook
 
 Mechanics of Robotic Manipulation, by Matthew T. Mason. MIT Press, 2001.  
-You can reach the online version of the textbook [here](http://cognet.mit.edu/library/books/view?isbn=0262133962)  
+You can reach the online version of the textbook [here](http://cognet.mit.edu/library/books/view?isbn=0262133962).  
 [Errata page](https://www.cs.cmu.edu/afs/cs/academic/class/16741-s07/www/Errata.txt)
 
 ## Additional Resources
