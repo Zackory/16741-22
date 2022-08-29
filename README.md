@@ -81,6 +81,7 @@ If you have some ideas but could use some help focusing on a clearly defined man
     * Manipulation of cloth
     * Pouring liquid or manipulating deformable materials (such as dough)
 2. Here is a proposal I just made up, to give you an idea of expected level of detail and organization:
+
 ```
 Title: Pouring liquids
 Team: Moe, Curly
@@ -98,6 +99,7 @@ The objectives we will explore are:
 
 This project is close to my research with Professor Groucho, but that work is focused entirely on inviscid beverages, and this project will focus on molasses.
 ```
+
 3. Here are a few final project samples from Fall 2016 (not in IEEE format): [Sample 1](https://www.cs.cmu.edu/afs/cs/academic/class/16741-s07/www/sample_projects/yifanh_project.pdf), [Sample 2](https://www.cs.cmu.edu/afs/cs/academic/class/16741-s07/www/sample_projects/spurushw_report.pdf)
 
 
