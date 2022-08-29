@@ -42,12 +42,6 @@ You can reach the online version of the textbook [here](http://cognet.mit.edu/li
 
 ["Introduction to Modern Robotics: Mechanics, Planning, and Control"](http://hades.mech.northwestern.edu/index.php/LynchAndPark), by Kevin Lynch and Frank Park. Cambridge University Press, 2017.
 
-`Test` Test
-
-```
-Test
-```
-
 ## Course Project
 Each student must do a course project. This project is due by the end of the semester. The project will begin with a proposal, which should be a page or less. It should clearly describe what you intend to do. Students should expect to spend from 20 to 40 hours on the project. Course project reports will be due the 2nd to last week of the semester. The final report will be in IEEE format and should detail your project motivation, methodology, implementation, and results. You will also be given the option to upload a video to accompany your report (optional, but can be very helpful if your work is visual, and most robotics applications are quite visual). Projects may be a small manipulation problem to which you will apply some techniques learned in class, some extension or variation of a technique learned in class, or a review and implementation of a research paper related to the class material.
 
@@ -80,43 +74,24 @@ If you have some ideas but could use some help focusing on a clearly defined man
     * Manipulating buttons, zippers, or other elements that require fine-motor control
     * Manipulation of cloth
     * Pouring liquid or manipulating deformable materials (such as dough)
-2. Here is a proposal I just made up, to give you an idea of expected level of detail and organization:
+    * Using chopsticks
+2. Here is a proposal to give you an idea of the expected level of detail and organization:
 
-```
-Title: Pouring liquids
-Team: Moe, Curly
-
-We have seen some videos of robots pouring liquids, but they do not look as good as people pouring liquids, for example:
-(A video of a human pouring)
-(A video of a robot pouring)
-
-It is obvious the person is better, but not obvious exactly why. What is the objective that should be optimized? To explore that, we will devise a very simple two-dimensional simulator that pours liquid from one container into another. The pouring motion will be represented as a path in the container configuration space interpolating through a set of control points. We will formulate several different objective functions, and optimize the choice of control points for each objective, and then compare the outcomes.
-
-The objectives we will explore are:
-    * minimum time to fill the receptacle
-    * least spillage within a given time
-    * (and some others)
-
-This project is close to my research with Professor Groucho, but that work is focused entirely on inviscid beverages, and this project will focus on molasses.
-```
-
-`
-Title: Pouring liquids
-Team: Moe, Curly
-
-We have seen some videos of robots pouring liquids, but they do not look as good as people pouring liquids, for example:
-(A video of a human pouring)
-(A video of a robot pouring)
-
-It is obvious the person is better, but not obvious exactly why. What is the objective that should be optimized? To explore that, we will devise a very simple two-dimensional simulator that pours liquid from one container into another. The pouring motion will be represented as a path in the container configuration space interpolating through a set of control points. We will formulate several different objective functions, and optimize the choice of control points for each objective, and then compare the outcomes.
-
-The objectives we will explore are:
-    * minimum time to fill the receptacle
-    * least spillage within a given time
-    * (and some others)
-
-This project is close to my research with Professor Groucho, but that work is focused entirely on inviscid beverages, and this project will focus on molasses.
-`
+    > Title: Pouring liquids  
+    > Team: Moe, Curly
+    > 
+    > We have seen some videos of robots pouring liquids, but they do not look as good as people pouring liquids, for example:  
+    > (A video of a human pouring)  
+    > (A video of a robot pouring)
+    > 
+    > It is obvious the person is better, but not obvious exactly why. What is the objective that should be optimized? To explore that, we will devise a very simple two-dimensional simulator that pours liquid from one container into another. The pouring motion will be represented as a path in the container configuration space interpolating through a set of control points. We will formulate several different objective functions, and optimize the choice of control points for each objective, and then compare the outcomes.
+    > 
+    > The objectives we will explore are:
+    > * minimum time to fill the receptacle
+    > * least spillage within a given time
+    > * (and some others)
+    > 
+    > This project is close to my research with Professor Groucho, but that work is focused entirely on inviscid beverages, and this project will focus on molasses.
 
 3. Here are a few final project samples from Fall 2016 (not in IEEE format): [Sample 1](https://www.cs.cmu.edu/afs/cs/academic/class/16741-s07/www/sample_projects/yifanh_project.pdf), [Sample 2](https://www.cs.cmu.edu/afs/cs/academic/class/16741-s07/www/sample_projects/spurushw_report.pdf)
 
